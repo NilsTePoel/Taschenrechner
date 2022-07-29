@@ -2,7 +2,7 @@
 
 ## Benutzeroberfläche
 
-![Benutzeroberfläche](UI.png)
+<img src="UI.png" width="300">
 
 | Taste | Funktion                                                                 |
 | ----- | -----------------------------------------------------------------------  |
