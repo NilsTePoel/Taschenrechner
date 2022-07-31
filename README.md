@@ -20,12 +20,12 @@ In der Datei `TouchCalculator.ino` kann die Pin-Belegung angepasst werden:
 
 ```C++
 // LCD
-uint16_t model = ILI9486;
-uint8_t cs = A3;
-uint8_t cd = A2;
-uint8_t wr = A1;
-uint8_t rd = A0;
-uint8_t reset = A4;
+const uint16_t model = ILI9486;
+const uint8_t cs = A3;
+const uint8_t cd = A2;
+const uint8_t wr = A1;
+const uint8_t rd = A0;
+const uint8_t reset = A4;
 
 // Touchscreen
 const uint8_t yp = A3;
